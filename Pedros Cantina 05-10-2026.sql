@@ -1,0 +1,1 @@
+﻿EXEC sp_rename 'dbo.Medarbejdere.Id', 'MedarbejderId', 'COLUMN';

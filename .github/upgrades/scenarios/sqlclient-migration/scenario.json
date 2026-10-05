@@ -1,0 +1,9 @@
+{
+  "scenarioId": "sqlclient-migration",
+  "operationId": "66ed6fda-a5ed-4ed5-b521-ffb09c0f06df",
+  "description": "Migrates .NET projects from System.Data.SqlClient to Microsoft.Data.SqlClient. Use when user wants to upgrade SqlClient, migrate to Microsoft.Data.SqlClient, or modernize SQL Server data access.\n",
+  "startTime": "2026-10-05T08:59:52.2253905Z",
+  "lastUpdateTime": "2026-10-05T08:59:52.2652063Z",
+  "properties": {},
+  "folderPath": ""
+}
